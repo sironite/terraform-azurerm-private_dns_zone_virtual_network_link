@@ -1,6 +1,6 @@
-# Terraform module | AzureRM - Invullen
+# Terraform module | AzureRM - Private DNS zone Virtual Network Links
 
-This Terraform module is designed to create a Invullen for Azure.
+This Terraform module is designed to create a Private DNS zone Virtual Network Links for Azure.
 
 ## Pre-requisites
 
@@ -9,7 +9,7 @@ Using the modules requires the following pre-requisites:
 
 ## Usage
 
-`Invullen`
+`Private DNS zone Virtual Network Links`
 
 ```hcl
 
